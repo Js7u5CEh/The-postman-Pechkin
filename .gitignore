@@ -157,4 +157,4 @@ dist/
 *.log
 docs/node-v24.21.0-win-x64/
 docs/Docker Desktop Installer.exe
-docs/*.msi
+docs/*.msi.freebuff/ 
